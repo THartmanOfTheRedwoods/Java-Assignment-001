@@ -1,3 +1,12 @@
+/**
+ *
+ * @author Trevor Hartman
+ * @author Aaron Johnson
+ *
+ * @since Version 1.0
+ *
+ */
+
 public class InAGalaxyFarFarAway {
     /**
      * Prints a famous Star Wars intro to the console with 3 souts.
@@ -5,5 +14,9 @@ public class InAGalaxyFarFarAway {
      **/
     public static void main(String[] args) {
         // Write your program here
+        System.out.println("A long time ago");
+        System.out.println("In a galaxy far,");
+        System.out.println("far away....");
     }
+
 }
