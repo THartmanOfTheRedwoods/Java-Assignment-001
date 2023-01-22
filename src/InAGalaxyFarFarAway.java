@@ -1,9 +1,20 @@
+/**
+ *
+ * @author Trevor Hartman
+ * @author Cameron Meng
+ *
+ * @since version 1.0
+ *
+ */
+
 public class InAGalaxyFarFarAway {
     /**
-     * Prints a famous Star Wars intro to the console with 3 souts.
+     * Prints a famous Star Wars intro to the console with 3 stouts.
      * @param args Command line arguments [The source file path, The target file path, ...]
      **/
     public static void main(String[] args) {
-        // Write your program here
+        System.out.println("A Long Time Ago");
+        System.out.println("in a galaxy far,");
+        System.out.println("far away....");
     }
 }
