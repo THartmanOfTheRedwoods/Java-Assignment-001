@@ -27,9 +27,6 @@ After making each change:
 4. Ensure that you take a screenshot of each error message.
 3. Then correct the error.
 
-Video Help: https://redwoods.us-west-2.instructuremedia.com/embed/236a53b6-5147-41ee-b436-613e6e30da74
-<iframe width="560px" height="320px" allowfullscreen="true" allow="autoplay *" title="Error Images" src="https://redwoods.us-west-2.instructuremedia.com/embed/236a53b6-5147-41ee-b436-613e6e30da74" frameborder="0"></iframe>
-
 ## Naming the Screenshots
 Save each error message screenshot like error01.png, error02.png, ..., errorN.png, etc. in your project directory.
 
