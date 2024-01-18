@@ -26,6 +26,10 @@ After making each change:
 2. Read the error message (if any)
 4. Ensure that you take a screenshot of each error message.
 3. Then correct the error.
+   
+<video width="320" height="240" controls>
+  <source src="[movie.mp4](https://redwoods.us-west-2.instructuremedia.com/embed/236a53b6-5147-41ee-b436-613e6e30da74)" type="video/mp4"> Your browser does not support the video tag.
+</video>
 
 ## Naming the Screenshots
 Save each error message screenshot like error01.png, error02.png, ..., errorN.png, etc. in your project directory.
