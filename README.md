@@ -1,4 +1,4 @@
-# Assignment 1: Error Exploration in Hello World Program
+ # Assignment 1: Error Exploration in Hello World Program
 
 ## Objective
 Commit various errors in the Hello World program to observe and understand the compiler's error messages. Follow the steps below:
